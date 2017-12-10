@@ -313,6 +313,9 @@ MongoClient.connect(url, function(err, db) {
 });
 ```
 
+
+.
+
 This concludes the QuickStart of connecting and performing some Basic operations using the MongoDB Node.js driver. For more detailed information you can look at the tutorials covering more specific topics of interest.
 
 ## Next Steps
